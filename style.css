@@ -1,0 +1,29 @@
+.a {
+    text-align: justify;
+    font-style: italic;
+    font-size: medium;
+}
+
+.b {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+body {
+    background-color: lavender;
+}
+
+table {
+    color: black;
+    border-color: cadetblue;
+}
+
+li {
+    font-size: large;
+}
+
+p {
+    font-size: large;
+    font-style: verdana;
+}
